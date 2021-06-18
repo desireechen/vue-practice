@@ -1,4 +1,4 @@
-I followed along with this Vue [tutorial](https://www.taniarascia.com/getting-started-with-vue/). In the gh-pages branch, I am trying (not successful yet) to deploy a build to GitHub pages. The gh-pages branch has a vue.config.js file which contains the publicPath of my GitHub.
+I referenced this Vue [tutorial](https://www.taniarascia.com/getting-started-with-vue/). In the gh-pages branch, I am trying (not successful yet) to deploy a build to GitHub pages. The gh-pages branch has a vue.config.js file which contains the publicPath of my GitHub.
 
 # vue-app
 
